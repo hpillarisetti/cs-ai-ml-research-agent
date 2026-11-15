@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "cs-ai-research-tools": {
+      "command": "python",
+      "args": ["mcp_server.py"],
+      "description": "Read-only literature retrieval and evidence-audit tools for CS and AI/ML research"
+    }
+  }
+}
